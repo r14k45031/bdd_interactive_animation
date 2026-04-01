@@ -1,4 +1,4 @@
-# bdd_interactive_animation[bdd_interactive_animation.html](https://github.com/user-attachments/files/26393851/bdd_interactive_animation.html)
+
 
 <style>
 * { box-sizing: border-box; }
